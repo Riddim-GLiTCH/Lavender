@@ -1,4 +1,5 @@
-# Maintenance of this repo has been temporarily stopped!
+# This is a temporary fork.
+This fork is meant to make sure the theme works while the original developer is away. All credits go to [Lavender Discord](https://github.com/Lavender-Discord) and its team.
 
 # Lavender
 
